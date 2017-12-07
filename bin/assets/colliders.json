@@ -1,0 +1,32 @@
+{
+	"colliders": {
+		"Template_collider": {
+			"mcPoint3": {
+				"x": -102.6,
+				"type": "Point",
+				"y": -1
+			},
+			"mcGlobalBox": {
+				"x": 0,
+				"type": "Circle",
+				"radius": 100,
+				"y": 0
+			},
+			"mcPoint1": {
+				"x": 68.6,
+				"type": "Point",
+				"y": -73
+			},
+			"mcPoint0": {
+				"x": 0,
+				"type": "Point",
+				"y": 0
+			},
+			"mcPoint2": {
+				"x": 64.6,
+				"type": "Point",
+				"y": 71
+			}
+		}
+	}
+}
